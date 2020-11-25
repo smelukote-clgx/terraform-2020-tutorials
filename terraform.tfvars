@@ -1,4 +1,4 @@
-project = "gcp-tf-tutorials"
+project = "tf-tutorials-1234"
 credentials_file = "sa-key.json"
 region   = "us-central1"
 zone     = "us-central1-a"

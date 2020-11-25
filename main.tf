@@ -6,6 +6,14 @@ terraform {
   }
 }
 
+terraform {
+  backend "gcs" {
+    bucket  = "tf-state-1234"
+    prefix  = "terraform/state"
+    credentials = "sa-key.json"
+  }
+}
+
 provider "google" {
   version = "3.5.0"
 

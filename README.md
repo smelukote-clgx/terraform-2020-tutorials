@@ -92,6 +92,7 @@ resource "packet_device" "worker" {
 }
 
 Sentinal  Security : Policy as code
+policy language :
 
 
 

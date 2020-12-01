@@ -91,7 +91,7 @@ resource "packet_device" "worker" {
     locked        = false
 }
 
-
+Sentinal  Security : Policy as code
 
 
 

@@ -21,6 +21,10 @@ variable "web_instance_count" {
   default = 1
 }
 
+variable "vpcname" {
+  type = string
+}
+
 variable "cidrs" { default = [] }
 
 variable "environment" {

@@ -2,3 +2,5 @@ terraform-instance: 104.198.129.155
 terraform-instance: 34.70.254.124
 terraform-instance: 35.202.100.35
 terraform-instance: 34.66.167.18
+terraform-instance:  35.238.252.165 
+terraform-instance:  104.197.199.124 

@@ -8,3 +8,4 @@ machine_types = {
   test = "n1-highcpu-32"
   prod = "n1-highcpu-32"
 }
+vpcname = "my-vpc"

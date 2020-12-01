@@ -94,6 +94,8 @@ resource "packet_device" "worker" {
 Sentinal  Security : Policy as code
 policy language :
 https://docs.hashicorp.com/sentinel
+Sentinel is a language and framework for policy built to be embedded in existing software to enable fine-grained, logic-based policy decisions. A policy describes under what circumstances certain behaviors are allowed. Sentinel is an enterprise-only feature of HashiCorp Consul, Nomad, Terraform, and Vault.
+
 
 
 
